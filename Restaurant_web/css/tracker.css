@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Rendertracker {
+    margin-top: 20px;
+    padding-top: 50px;
+}
+
+.Rendertracker h2 {
+    margin-top: 10px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.trackorderbtn input {
+    margin-top: 15px;
+    color: #FFFFFF;
+    background: #DC143C;
+}
+
+.text-center h3 {
+    margin-top: 20px;
+}
+
+.footer a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #DC143C;
+    text-decoration: none;
+}
+
+.footer h5 {
+    color: #DC143C;
+}
+
+
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+
+#map {
+    height: 100%;
+}
+
+
+/* Optional: Makes the sample page fill the window. */
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
